@@ -1,4 +1,4 @@
-# Mystery Word
+  # Mystery Word
 
 ## Description
 
